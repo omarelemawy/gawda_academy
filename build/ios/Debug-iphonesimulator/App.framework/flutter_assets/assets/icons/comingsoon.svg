@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="185" viewBox="0 0 185 185">
+  <g id="Group_2316" data-name="Group 2316" transform="translate(767 -2212)">
+    <rect id="Rectangle_362" data-name="Rectangle 362" width="185" height="185" transform="translate(-767 2212)" fill="#fff"/>
+    <g id="Ellipse_77" data-name="Ellipse 77" transform="translate(-705 2270)" fill="#fff" stroke="#000" stroke-width="1" stroke-dasharray="4">
+      <circle cx="32.5" cy="32.5" r="32.5" stroke="none"/>
+      <circle cx="32.5" cy="32.5" r="32" fill="none"/>
+    </g>
+    <path id="Subtraction_1" data-name="Subtraction 1" d="M1210-1927a28.819,28.819,0,0,1-11.288-2.279,28.908,28.908,0,0,1-9.218-6.215,28.907,28.907,0,0,1-6.215-9.218A28.819,28.819,0,0,1,1181-1956h29v-29a28.818,28.818,0,0,1,11.288,2.279,28.9,28.9,0,0,1,9.218,6.215,28.9,28.9,0,0,1,6.215,9.218A28.816,28.816,0,0,1,1239-1956a28.815,28.815,0,0,1-2.279,11.288,28.9,28.9,0,0,1-6.215,9.218,28.905,28.905,0,0,1-9.218,6.215A28.821,28.821,0,0,1,1210-1927Z" transform="translate(-1882 4259)" fill="#4dc0b1"/>
+    <text id="_75_" data-name="75 %" transform="translate(-689 2308)" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">75 %</tspan></text>
+  </g>
+</svg>

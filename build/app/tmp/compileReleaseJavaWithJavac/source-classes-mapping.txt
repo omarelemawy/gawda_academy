@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/jawdaacademy/elgawda/BuildConfig.java
+ com.jawdaacademy.elgawda.BuildConfig
